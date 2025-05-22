@@ -1,4 +1,4 @@
-# 🐳 Micro - VorvanDocs - Documentation System
+# 🐳 micro-VorvanDocs - Documentation System
 
 
 # O aplikaci
