@@ -1,8 +1,5 @@
 # 🐳 micro-VorvanDocs 
-## Documentation System
 
-
-# O aplikaci
 
 VorvanDocs je lehký prohlížeč dokumentace, který dynamicky zobrazuje soubory Markdown z adresářové struktury. Ideální pro technickou dokumentaci, znalostní báze nebo jakýkoli hierarchicky uspořádaný obsah.
 
