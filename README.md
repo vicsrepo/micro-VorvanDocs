@@ -1,7 +1,7 @@
 # 🐳 micro-VorvanDocs 
 
 
-VorvanDocs je lehký prohlížeč dokumentace, který dynamicky zobrazuje soubory Markdown z adresářové struktury. Ideální pro technickou dokumentaci, znalostní báze nebo jakýkoli hierarchicky uspořádaný obsah.
+VorvanDocs ve verzi **micro** je lehký prohlížeč dokumentace, který dynamicky zobrazuje soubory Markdown z adresářové struktury. Ideální pro technickou dokumentaci, znalostní báze nebo jakýkoli hierarchicky uspořádaný obsah.
 
 ## Klíčové vlastnosti
 
